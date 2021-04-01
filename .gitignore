@@ -1,6 +1,7 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
-.Rproj.user
+archive
+node_modules
+.idea
+.sass-cache
+.git
+.DS_Store
+Blog.xcworkspace
